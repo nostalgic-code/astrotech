@@ -32,7 +32,7 @@ export default function Testimonials() {
                                             height="400"
                                             width="400"
                                             loading="lazy" />
-                                        <AvatarFallback>ST</AvatarFallback>
+                                        <AvatarFallback>AM</AvatarFallback>
                                     </Avatar>
 
                                     <div>
@@ -56,7 +56,7 @@ export default function Testimonials() {
                                             height="400"
                                             width="400"
                                             loading="lazy" />
-                                        <AvatarFallback>JY</AvatarFallback>
+                                        <AvatarFallback>EC</AvatarFallback>
                                     </Avatar>
                                     <div>
                                         <cite className="text-sm font-medium">Evans Chuma</cite>
@@ -83,7 +83,7 @@ export default function Testimonials() {
                                     </Avatar>
                                     <div>
                                         <cite className="text-sm font-medium">Lorem Ipsum</cite>
-                                        <span className="text-muted-foreground block text-sm">Creator, Tailkits</span>
+                                        <span className="text-muted-foreground block text-sm">Creator, AstroTech</span>
                                     </div>
                                 </div>
                             </blockquote>
@@ -105,7 +105,7 @@ export default function Testimonials() {
                                         <AvatarFallback>RA</AvatarFallback>
                                     </Avatar>
                                     <div>
-                                        <p className="text-sm font-medium">Rodrigo Aguilar</p>
+                                        <p className="text-sm font-medium">Lorem Ipsum</p>
                                         <span className="text-muted-foreground block text-sm">Founder, Tech Innovators</span>
                                     </div>
                                 </div>
