@@ -37,6 +37,9 @@ function App() {
         <Testimonials />
       </div>
       <div className="bg-black text-white">
+        <FAQSection />
+      </div>
+      <div className="bg-black text-white">
         <FooterSection />
       </div>
     </>
