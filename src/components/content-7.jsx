@@ -9,7 +9,7 @@ export default function ContentSection() {
                 <div className="grid gap-6 sm:grid-cols-2 md:gap-12 lg:gap-24">
                     <div className="relative space-y-4">
                         <p className="text-muted-foreground">
-                        We’ve been there. That’s why we build AI-powered agents <span className="text-accent-foreground font-bold">and custom automations that work 24/7 — alongside stunning websites and rock-solid IT support.</span> — we build innovative products.
+                        We’ve been there. That’s why we build AI-powered agents <span className="text-accent-foreground font-bold text-white">and custom automations that work 24/7 — alongside stunning websites and rock-solid IT support.</span> — we build innovative products.
                         </p>
                         <p className="text-muted-foreground">Creating an entire ecosystem — from products to the APIs and platforms helping developers and businesses innovate</p>
 
