@@ -134,13 +134,18 @@ const transitionVariants = {
                     }}
                     className="mt-12 flex flex-col items-center justify-center gap-2 md:flex-row"
                   >
-                    <div key={1} className="bg-foreground/10 rounded-[calc(var(--radius-xl)+0.125rem)] border p-0.5">
-                      <Button asChild size="lg" className="rounded-xl px-5 text-base">
+                    <div key={1} className="rounded-[calc(var(--radius-xl)+0.125rem)] p-0.5">
+                      <Button
+                        asChild
+                        size="lg"
+                        className="rounded-xl px-5 text-base bg-zinc-200 text-black hover:bg-white transition-colors"
+                      >
                         <a href="#link">
                           <span className="text-nowrap">Build My Workflow</span>
                         </a>
                       </Button>
                     </div>
+
                     <Button key={2} asChild size="lg" variant="ghost" className="h-10.5 rounded-xl px-5">
                       <a href="#link">
                         <span className="text-nowrap">Get a Website</span>
